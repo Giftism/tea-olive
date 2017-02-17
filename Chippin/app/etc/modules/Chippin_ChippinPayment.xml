@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Chippin_ChippinPayment>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Core />
+                <Mage_Payment />
+            </depends>
+        </Chippin_ChippinPayment>
+    </modules>
+</config>
